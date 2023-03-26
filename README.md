@@ -1,2 +1,4 @@
-# hotstarclone
-created a clone pf hotstar
+# hotstar
+Images-and videos
+Star to repo is appreciated.
+This repo only contain images and videos. 
